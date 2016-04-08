@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/contact-service",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Contact services",
   "main": "node index",
   "scripts": {
